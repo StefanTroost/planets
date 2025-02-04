@@ -1,1 +1,1 @@
-list_planets = ["Venus", "Mars", "Earth"]
+list_planets = ["Venus", "Mars", "Earth", "Jupiter", "Saturn", "Uranus", "Neptune"]
